@@ -16,7 +16,7 @@ This is a project on building a dasbaord based on request from a call centre to 
 5.  Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
 
 
-6.  ## Skills/ Concept demonstrated:
+6.  ## Skills/ Concept Demonstrated:
 
 The following Power BI features were incorporated:
 - DAX,
