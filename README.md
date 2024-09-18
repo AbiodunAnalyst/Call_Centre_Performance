@@ -25,7 +25,7 @@ The following Power BI features were incorporated:
 - Filters
 
 ## Modelling
-Automatically derived relationships are adjusted to remove and replace unwanted relationship with the required
+Automatically derived relationships are adjusted to remove and replace unwanted relationship with the required.
 ![](model.JPG)
 ---
 There are 6-dimentional tables and 1 fact table. The dimention tables are all joined to the fact table with a one-to-many relationship
